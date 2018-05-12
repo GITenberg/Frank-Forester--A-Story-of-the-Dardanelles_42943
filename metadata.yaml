@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42943#Frank-Forester--A-Story-of-the-Dardanelles
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2013-06-13'
 gutenberg_type: Text
